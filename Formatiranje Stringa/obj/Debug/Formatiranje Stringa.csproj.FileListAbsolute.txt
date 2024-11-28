@@ -1,0 +1,7 @@
+F:\Formatiranje Stringa\Formatiranje Stringa\bin\Debug\Formatiranje Stringa.exe.config
+F:\Formatiranje Stringa\Formatiranje Stringa\bin\Debug\Formatiranje Stringa.exe
+F:\Formatiranje Stringa\Formatiranje Stringa\bin\Debug\Formatiranje Stringa.pdb
+F:\Formatiranje Stringa\Formatiranje Stringa\obj\Debug\Formatiranje Stringa.csproj.AssemblyReference.cache
+F:\Formatiranje Stringa\Formatiranje Stringa\obj\Debug\Formatiranje Stringa.csproj.CoreCompileInputs.cache
+F:\Formatiranje Stringa\Formatiranje Stringa\obj\Debug\Formatiranje Stringa.exe
+F:\Formatiranje Stringa\Formatiranje Stringa\obj\Debug\Formatiranje Stringa.pdb

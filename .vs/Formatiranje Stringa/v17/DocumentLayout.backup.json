@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Formatiranje Stringa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B78A5D5-6B08-4482-8E46-481591E11E3A}|Formatiranje Stringa\\Formatiranje Stringa.csproj|f:\\formatiranje stringa\\formatiranje stringa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B78A5D5-6B08-4482-8E46-481591E11E3A}|Formatiranje Stringa\\Formatiranje Stringa.csproj|solutionrelative:formatiranje stringa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Formatiranje Stringa\\Formatiranje Stringa\\Program.cs",
+              "RelativeDocumentMoniker": "Formatiranje Stringa\\Program.cs",
+              "ToolTip": "F:\\Formatiranje Stringa\\Formatiranje Stringa\\Program.cs",
+              "RelativeToolTip": "Formatiranje Stringa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:55:05.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
